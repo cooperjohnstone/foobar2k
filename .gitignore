@@ -1,0 +1,15 @@
+profile/metadb.sqlite
+profile/wavecache.db
+profile/config.sqlite
+profile/configuration/*.cfg
+
+profile/library-error-log-previous.txt
+profile/library-error-log.txt
+
+profile/crash_reports/
+profile/library-v2.0/
+profile/playlists-v2.0/
+
+profile/foo_youtube/cache/
+
+*.lnk
